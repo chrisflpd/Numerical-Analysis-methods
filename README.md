@@ -1,0 +1,1 @@
+A Jupyter Notebook python project, based on Newton's Quadratic Approximation and 4th order Runge Kutta differential equations systems. This project was completed in collaboration with my classmate [Aggelos Mpillis](https://github.com/mpillis).
